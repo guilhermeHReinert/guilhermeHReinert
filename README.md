@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a lot of things such as C, Python, Haskell and please, LaTeX
 - 💞️ I’m looking to collaborate on meh, nothing yet
 - 📫 How to reach me : just call me
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: the sticker phrase on my profile picture: "SÓ SUCESSO"
 
 <!---
