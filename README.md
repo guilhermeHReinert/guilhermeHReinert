@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guilhermeHReinert
 - 👀 I’m interested in crying while coding easy things
-- 🌱 I’m currently learning a lot of things such as C, Python, Haskell and please, LaTeX
+- 🌱 I’m currently learning a lot of things such as C, C++, Python, Haskell and please, LaTeX
 - 💞️ I’m looking to collaborate on meh, nothing yet
 - 📫 How to reach me : just call me
 - 😄 Pronouns: he/him
