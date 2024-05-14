@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on meh, nothing yet
 - 📫 How to reach me : just call me
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: me
+- ⚡ Fun fact: haha, my life.
 
 <!---
 guilhermeHReinert/guilhermeHReinert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
