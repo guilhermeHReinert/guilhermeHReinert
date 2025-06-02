@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @guilhermeHReinert
-- 👀 I’m interested in crying while coding easy things
+- 👋 Hey, I’m @guilhermeHReinert
+- 👀 I’m interested on the toxic relationship that programming is
 - 🌱 I’m currently learning a lot of things such as C, C++, Python, Haskell and please, LaTeX
-- 💞️ I’m looking to collaborate on meh, nothing yet
-- 📫 How to reach me : just call me
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: haha, my life.
-
-<!---
-guilhermeHReinert/guilhermeHReinert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate with my colleagues for now, until I start a real job to test my maestry
+- 📫 How to reach me : E-mail me if you have anything cool to share or to ask me :P
+- 😄 Pronouns: He/him, but I don't care so much
+- ⚡ Fun fact: haha, my life
