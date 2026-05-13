@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning a lot of things such as C, C++, Python, Haskell and please, LaTeX
 - 💞️ I’m looking to collaborate with my colleagues for now, until I start a real job to test my maestry
 - 📫 How to reach me : E-mail me if you have anything cool to share or to ask me :P
-- 😄 Pronouns: He/him or Reinert for the common folk
+- 😄 Pronouns: Reinert for the common folk
 - ⚡ Fun fact: haha, my life
