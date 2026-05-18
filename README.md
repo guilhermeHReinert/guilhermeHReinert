@@ -1,3 +1,13 @@
+<!--
+Useful links to remember for future updates:
+
+https://shields.io/badges
+https://simpleicons.org/
+https://www.w3schools.com/cssref/css_colors.php
+https://henrylok0.github.io/awesome-github-readme-tools/
+https://github-enchanter-list.vercel.app/list/trophies
+-->
+
 # :monocle_face: Hello, I’m Guilherme H. Reinert!
 
 Currently a **Scientific Computing student** who loves to constantly improve by learning all sorts of methods and skills wherever I can find them. Coding, for me, is a wonderful art that simultaneously blends logic, math, technology and an wild amount of colours — built on the knowledge shared by developers from all around the world.
