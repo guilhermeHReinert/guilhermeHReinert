@@ -17,13 +17,12 @@ Currently a **Scientific Computing student** who loves to constantly improve by 
 
 ![](https://github-profile-trophy.vercel.app/?username=guiHReinert&theme=discord&row=1&column=6)
 
-## 💞️ I’m looking to collaborate with my colleagues for now, until I start a real job to test my maestry
+## :telephone_receiver: How to Reach Me
 
+*Text me if you have anything cool to share or to ask me :P*
 
-
-## 📫 How to Reach Me
-
-E-mail me if you have anything cool to share or to ask me
+- **E-mail**: [guilhermeh.rei@gmail.com](mailto:guilhermeh.rei@gmail.com)
+- **Instagram**: [@guigui_gui_guigui](https://www.instagram.com/guigui_gui_guigui/)
 
 ## :disguised_face: Fun facts
 
